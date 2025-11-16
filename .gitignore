@@ -1,0 +1,76 @@
+# Node.js Dependencies
+node_modules/
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package Manager Lock Files
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# IDE Specific
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/extensions.json
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+$RECYCLE.BIN/
+ehthumbs.db
